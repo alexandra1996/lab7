@@ -3,7 +3,7 @@ Program Ten2;
 uses FormsABC;
 
 type
-mass=array[1..20] of real;
+mass=array[1..20] of real;//rejrjhhjrhrthrjhttr
 
 var 
 a:mass;
